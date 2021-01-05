@@ -8,7 +8,7 @@ function App() {
       <p className="text-white text-4xl text-center my-8 react">
         We are coming soon
       </p>
-      <p className="text-white sm:w-auto text-center node">
+      <p className="text-white sm:w-auto sm:mx-4 text-center node">
         We are working very hard to add new features and improve the usability
         of our site. <br /> In the meantime, scroll down to know a little more
         about this new project.
