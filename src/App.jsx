@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <img src={logo} alt="logo" />
-      <p className="text-white text-4xl text-center my-8 react">
+      <p className="text-white text-4xl sm:text-2xl text-center my-8 react">
         We are coming soon
       </p>
       <p className="text-white sm:w-auto sm:mx-4 text-center node">
