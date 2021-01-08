@@ -15,10 +15,6 @@
   width: 100vw;
   font-family: Pinyon,Montserrat, sans-serif;
   overflow: hidden;
-  // display: flex;
-  // align-items: center;
-  // justify-content: center;
-  // flex-direction: column;
 }
 
 
@@ -33,4 +29,12 @@ img{
 }
 .node{
   margin-top: 1rem;
+}
+@media only screen and (max-width: 680px) {
+  .react{
+    font-size: 26px;
+  }
+  .node{
+    padding: 0 1rem 0 1rem;
+  }
 }
